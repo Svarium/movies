@@ -2,4 +2,4 @@
 
 ##integrantes:
 
-###Sebastian Gallardo - Jose Luis Acevedo - Ezequiel Muñoz - Marcos Borquez
+###Sebastian Gallardo - Jose Luis Acevedo - Ezequiel Muñoz (Edad: 31 / Ciudad: Lanus) - Marcos Borquez
